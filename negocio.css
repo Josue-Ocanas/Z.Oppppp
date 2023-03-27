@@ -1,0 +1,85 @@
+#Titulo{
+    text-align: center;
+    font-size: 100px;
+}
+#Titulo{
+    font-family: Tilt Prism;
+}
+
+hr{
+    border-color: gold;
+    width: 100%;
+    border-style: solid;
+
+}
+
+header{
+    background-color: gold;
+    padding: 3rem;
+    color: #fff;
+}
+section{
+    background-color: #222;
+    padding:3rem;
+    color:#fff
+}
+section article h2{
+    float: inline-start;
+    font-size: 50px;
+    color:#fff
+}
+.pasos{
+    font-size: 60px;
+}
+section article p{
+    font-size: 25px;
+    color:#fff;
+    text-align: justify;
+}
+footer{
+    background-color: rgba(255, 217, 0, 0.863);
+    padding: 2rem;
+    color:#fff;
+}
+
+footer a{
+    transition: color 0.5s ease;
+    color:#fff;
+    text-decoration: none;
+}
+footer a:hover{
+    color:black;
+    text-decoration: line-through;
+}
+.Zoo{
+    text-align: center;
+    text-decoration: underline;
+}
+footer p{
+    text-align: center;
+}
+#derecha{
+    float:right
+}
+footer p{
+    font-size: 18px;
+}
+section article a{
+    transition: color 0.5s ease;
+    color: #fff;
+    text-decoration: none;
+}
+section article a:hover{
+    color:gold;
+    text-decoration: line-through;
+}
+
+.paypal{
+    transition: color 0.3s ease;
+    color: #fff;
+    text-decoration: none;
+}
+.paypal:hover{
+    color:red;
+    text-decoration: wavy line-through;
+}
